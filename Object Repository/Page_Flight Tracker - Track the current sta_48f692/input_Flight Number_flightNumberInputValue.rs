@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Flight Number_flightNumberInputValue</name>
+   <tag></tag>
+   <elementGuidId>ef45f84d-822b-490e-a56d-4c89fd223f17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='flightNumberInputValue']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;flightNumberInputValue&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Example: 200&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>77b3b0e4-17a4-4898-9416-ea76df344a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>427bb81c-6843-48ed-bdc2-fd74b53c437a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-text__StyledInput-sc-11k2oyc-1 hLAkMJ</value>
+      <webElementGuid>37fd7d2e-08f1-409c-a0d5-3fb9e01a6a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>flightNumberInputValue</value>
+      <webElementGuid>363beb1e-e14d-4f00-b184-a601263bd4b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Example: 200</value>
+      <webElementGuid>132c0e23-4a34-4bbd-a153-335709894c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ft-flight-search&quot;)/div[@class=&quot;utility-components__FormFieldRow-sc-b8nvu2-1 kkStkg&quot;]/div[@class=&quot;basic-text__Container-sc-11k2oyc-0 jlFvYA&quot;]/input[@class=&quot;basic-text__StyledInput-sc-11k2oyc-1 hLAkMJ&quot;]</value>
+      <webElementGuid>8299156b-08c5-415f-a311-284d17a90d5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='flightNumberInputValue']</value>
+      <webElementGuid>56873b64-ad6e-4102-aa34-3571bec8ead6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ft-flight-search']/div/div[2]/input</value>
+      <webElementGuid>9ba1f65b-fcfb-4130-b69f-3a2ae67f12df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>83fcc178-6c3e-4cf6-98ba-f651b46cb3da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'flightNumberInputValue' and @placeholder = 'Example: 200']</value>
+      <webElementGuid>e2de8e72-5b92-4933-8064-19c18e8a6aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

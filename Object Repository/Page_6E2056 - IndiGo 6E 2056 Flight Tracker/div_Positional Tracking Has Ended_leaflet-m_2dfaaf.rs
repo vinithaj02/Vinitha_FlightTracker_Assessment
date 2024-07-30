@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Positional Tracking Has Ended_leaflet-m_2dfaaf</name>
+   <tag></tag>
+   <elementGuidId>9b441bcb-d422-48a2-baad-102bceb6e986</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;desktop__LayoutWrapper-sc-43d6t8-0 hlRtPs&quot;]/section[@class=&quot;desktop__Content-sc-43d6t8-1 QOLIU&quot;]/div[@class=&quot;layout-row__RowWrapper-sc-1uoco8s-0 kkBznr&quot;]/div[@class=&quot;layout-row__SectionContainer-sc-1uoco8s-2 YsSid&quot;]/div[2]/div[@class=&quot;layout-row__RowInner-sc-1uoco8s-1 hkmBIC&quot;]/div[@class=&quot;tracker__Wrapper-sc-1ixqjdu-0 eRXwNv&quot;]/div[@class=&quot;row__Row-sc-18xg2xa-0 iQRCGm&quot;]/div[@class=&quot;client-only-flight-map__MapWrapper-sc-yxmqy7-0 iUXUxi&quot;]/div[@class=&quot;flight-map__Wrapper-sc-172mvfy-0 kFGGyc&quot;]/div[@class=&quot;leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom&quot;]/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-marker-pane&quot;]/div[@class=&quot;leaflet-marker-icon flight-tracker-map-airport-icon leaflet-zoom-animated leaflet-interactive&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.leaflet-marker-icon.flight-tracker-map-airport-icon.leaflet-zoom-animated.leaflet-interactive</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.leaflet-marker-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d097899f-5ecc-429f-aab0-49703087cc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leaflet-marker-icon flight-tracker-map-airport-icon leaflet-zoom-animated leaflet-interactive</value>
+      <webElementGuid>d8ce9cb5-4eb3-4327-ae82-5fe6d8a328d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>358bb6b2-bda4-4b76-918d-b29009f90f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;desktop__LayoutWrapper-sc-43d6t8-0 hlRtPs&quot;]/section[@class=&quot;desktop__Content-sc-43d6t8-1 QOLIU&quot;]/div[@class=&quot;layout-row__RowWrapper-sc-1uoco8s-0 kkBznr&quot;]/div[@class=&quot;layout-row__SectionContainer-sc-1uoco8s-2 YsSid&quot;]/div[2]/div[@class=&quot;layout-row__RowInner-sc-1uoco8s-1 hkmBIC&quot;]/div[@class=&quot;tracker__Wrapper-sc-1ixqjdu-0 eRXwNv&quot;]/div[@class=&quot;row__Row-sc-18xg2xa-0 iQRCGm&quot;]/div[@class=&quot;client-only-flight-map__MapWrapper-sc-yxmqy7-0 iUXUxi&quot;]/div[@class=&quot;flight-map__Wrapper-sc-172mvfy-0 kFGGyc&quot;]/div[@class=&quot;leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom&quot;]/div[@class=&quot;leaflet-pane leaflet-map-pane&quot;]/div[@class=&quot;leaflet-pane leaflet-marker-pane&quot;]/div[@class=&quot;leaflet-marker-icon flight-tracker-map-airport-icon leaflet-zoom-animated leaflet-interactive&quot;]</value>
+      <webElementGuid>c018ce0b-7ae0-4437-ac4c-d53901e83444</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div[2]/div/div[2]/div/div/div[2]/div/div/div/div/div[4]/div</value>
+      <webElementGuid>44fc4a11-ac20-4f4a-9ced-d8fc9d94e148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Positional Tracking Has Ended'])[1]/following::div[17]</value>
+      <webElementGuid>87d8e3ac-26d5-48b2-b0f3-ad900a272d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Tracker'])[2]/following::div[22]</value>
+      <webElementGuid>4d520274-9420-471f-a4bc-ce5d4313d412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leaflet'])[1]/preceding::div[9]</value>
+      <webElementGuid>a252bdfc-ad91-4d13-a355-85bc218b5e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[4]/div</value>
+      <webElementGuid>e383b4a4-ec3b-48a5-81e9-da61e091dfd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

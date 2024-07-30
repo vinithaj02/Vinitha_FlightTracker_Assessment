@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW FLIGHT DETAILS</name>
+   <tag></tag>
+   <elementGuidId>df96a84f-588e-4ad1-8b92-d4d4ca02f7de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='extendedDetailsButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#extendedDetailsButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;VIEW FLIGHT DETAILS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e292c856-407c-4ac7-a11c-c44ad8d12a67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-link__ButtonLink-sc-wcss74-0 dVTZZ</value>
+      <webElementGuid>86bac382-b3c8-4525-9db2-7f48eb9d2a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.flightstats.com/v2/flight-details/6E/2056?year=2024&amp;month=7&amp;date=30&amp;flightId=1265520676</value>
+      <webElementGuid>34714d9c-0f43-4daa-bfd4-3a5cbc3da9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>extendedDetailsButton</value>
+      <webElementGuid>7e6b5676-42dc-4b2e-ae44-15c0e60eaed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW FLIGHT DETAILS</value>
+      <webElementGuid>93611114-2a70-417a-a6b4-ebb034465dfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;extendedDetailsButton&quot;)</value>
+      <webElementGuid>2049b9bb-438a-475a-8ada-54102c7129cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='extendedDetailsButton']</value>
+      <webElementGuid>0f7d183f-18d2-4df2-aa9e-db350523ada0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/div/div[2]/div/div/div[2]/a</value>
+      <webElementGuid>f1a220b1-e541-4e25-aa2e-ef28fa306cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'VIEW FLIGHT DETAILS')]</value>
+      <webElementGuid>69f18561-8ba1-4dc7-bd90-7dc50fd234e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baggage'])[1]/following::a[1]</value>
+      <webElementGuid>68da8c3d-3dd9-4492-8d6a-d1d90dfbd37d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[3]/following::a[1]</value>
+      <webElementGuid>d916291d-ae5e-45d9-b2ec-1d6bd562ba53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ON-TIME PERFORMANCE'])[1]/preceding::a[1]</value>
+      <webElementGuid>ce0550e2-f5aa-4472-bf23-ec93ce362143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AIRPORT DELAYS'])[1]/preceding::a[2]</value>
+      <webElementGuid>ed78e0c8-c1c0-4000-af24-fe5a3fb7127c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VIEW FLIGHT DETAILS']/parent::*</value>
+      <webElementGuid>59515baf-3cfe-4dbf-b53c-42150a594348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.flightstats.com/v2/flight-details/6E/2056?year=2024&amp;month=7&amp;date=30&amp;flightId=1265520676')]</value>
+      <webElementGuid>fb9371ed-7ffa-4bee-bfb2-ff6291b95c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/a</value>
+      <webElementGuid>0872e426-c195-4e99-9f9e-ae2c8345104e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.flightstats.com/v2/flight-details/6E/2056?year=2024&amp;month=7&amp;date=30&amp;flightId=1265520676' and @id = 'extendedDetailsButton' and (text() = 'VIEW FLIGHT DETAILS' or . = 'VIEW FLIGHT DETAILS')]</value>
+      <webElementGuid>0af2306e-1a85-4883-97ff-2463c0b4999d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

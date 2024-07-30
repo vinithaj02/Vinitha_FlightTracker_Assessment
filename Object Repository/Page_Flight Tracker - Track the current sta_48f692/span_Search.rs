@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search</name>
+   <tag></tag>
+   <elementGuidId>42d0aa56-3dfd-4d72-a28b-823ba872b004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='ft-flight-search']/div[3]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.basic-button__ButtonText-sc-3qdr1i-1.faPdUN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#ft-flight-search >> internal:role=button[name=&quot;Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ddb14a17-b67b-49bd-aa7b-1764a674f7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__ButtonText-sc-3qdr1i-1 faPdUN</value>
+      <webElementGuid>0c237d51-b545-4616-8677-3d8c7ec11a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>ff2cb165-3369-4fa5-bdc2-4158adcaf9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ft-flight-search&quot;)/div[@class=&quot;utility-components__ButtonNewRowContainer-sc-b8nvu2-2 gJhFOP&quot;]/button[@class=&quot;basic-button__Button-sc-3qdr1i-0 kmYwtt&quot;]/span[@class=&quot;basic-button__ButtonText-sc-3qdr1i-1 faPdUN&quot;]</value>
+      <webElementGuid>e40bac9c-97e7-41c4-aec3-4eda52e52a65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='ft-flight-search']/div[3]/button/span</value>
+      <webElementGuid>e07a6f14-a31e-476d-869e-cb2a2d53c74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::span[1]</value>
+      <webElementGuid>5126be0c-ff44-4aa6-96fd-dfdaabd296b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Number'])[1]/following::span[1]</value>
+      <webElementGuid>65245f24-7cf4-4cfb-b0bd-0d75b25cc9c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by Airport or Route'])[1]/preceding::span[1]</value>
+      <webElementGuid>ebdb7fd5-4035-4219-8bb0-57a6a8ad4091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Departure Airport'])[1]/preceding::span[1]</value>
+      <webElementGuid>a39a1f63-3e0d-4914-a43b-083cb596b5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>61775a92-ceb7-42af-adeb-db3b9681e108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2010be4b-c2bb-4db8-9eff-8374eb56dbb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>6e49e2c0-4c56-4fa1-8443-5a3278e4d494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

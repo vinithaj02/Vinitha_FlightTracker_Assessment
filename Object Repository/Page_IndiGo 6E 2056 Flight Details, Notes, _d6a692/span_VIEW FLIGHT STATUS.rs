@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_VIEW FLIGHT STATUS</name>
+   <tag></tag>
+   <elementGuidId>95a28f87-3b37-42bb-9ea8-686625dd8c0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/main/div/div/section/div[2]/div[2]/div[1]/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#flightTrackerButton > div > span:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;VIEW FLIGHT STATUS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>996da848-b2c1-4b52-9e06-daaec017d5e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VIEW FLIGHT STATUS</value>
+      <webElementGuid>8ee9a23e-bd00-41e1-9061-908309065cec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;flightTrackerButton&quot;)/div[1]/span[2]</value>
+      <webElementGuid>c778c47c-5a6e-4f8a-a07d-f382c925247a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='flightTrackerButton']/div/span[2]</value>
+      <webElementGuid>091e236b-0892-4d7e-9e25-c583df8a2e35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VT-IUM'])[1]/following::span[2]</value>
+      <webElementGuid>fbb1dd7d-a662-4d40-9b50-824c5f87bf7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[3]/following::span[2]</value>
+      <webElementGuid>37b8816b-6541-48cc-87c4-275137479103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW AIRPORT DELAYS'])[1]/preceding::span[1]</value>
+      <webElementGuid>874fbb56-02c3-4601-b87e-4bc94ffe1f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flight Notes'])[1]/preceding::span[2]</value>
+      <webElementGuid>b3faab63-6626-45f1-a855-c69a758832de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/main/div/div/section/div[2]/div[2]/div[1]/a/div/span</value>
+      <webElementGuid>50bbb759-1e73-49a9-bf5a-4dc011d8686f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span[2]</value>
+      <webElementGuid>213cb91b-4810-4b47-b182-a9e7bea3a5c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'VIEW FLIGHT STATUS' or . = 'VIEW FLIGHT STATUS')]</value>
+      <webElementGuid>a05ba553-aa67-49f9-b829-2b0fbb0bc065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/main/div/div/section/div[2]/div[2]/div[1]/a/div/span</value>
+      <webElementGuid>3a60a010-43a1-49a4-964c-3e1f360dfa24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
