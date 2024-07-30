@@ -1,2 +1,1 @@
-# Vinitha_FlightTracker_Assessment
-Flight Tracker
+# Vinitha_FlightTracker

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>My First Web UI Project</name>
+   <name>Vinitha_FlightTracker</name>
    <tag></tag>
-   <UUID>6cdab601-d6f8-4f77-9135-051877a23afb</UUID>
+   <UUID>66c0e5c5-5ded-4d4a-8ac9-b9bf6174e382</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>9.6.0</createdVersion>
    <freeLicense>false</freeLicense>
@@ -11,7 +11,6 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\vinay\Katalon Studio\My First Web UI Project\My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -31,5 +30,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBUI</type>
+   <type>GENERIC</type>
 </Project>
